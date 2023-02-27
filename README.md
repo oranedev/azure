@@ -1,29 +1,21 @@
-# azure
-<i>Azure Projects</i>
-<b><u> Creating Resources </b></u>
+<h1>Hi, I'm Orane, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
-<b>Create a Resource Group</b>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-<ul><li>Create a Windows 10 VM in the Resource Group with a new Vnet and Subnet</li>
- <li>Create a Linux (Ubuntu) VM in the same Resource Group and Vnet</li>
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/oranedev/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/oranedev/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/oranedev/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/oranedev/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/oranedev/azure-network-protocols)
 
-  <li>Observe the Virtual Network within Network Watcher</li></ul>
+<h2>🤳Connect with me:</h2>
 
- <b> Observing Traffic </b>
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<ul>  <li>Use Remote Desktop to connect to the Windows 10 VM</li>
-  <li>Install Wireshark within the Windows 10 VM</li>
-  <li>Filter Wireshark for ICMP traffic</li>
-  <li>Ping the Ubuntu VM from the Windows 10 VM and observe traffic in Wireshark</li>
-  <li>Ping a public website and observe traffic in Wireshark</li>
-  <li>Initiate a perpetual/non-stop ping from the Windows 10 VM to the Ubuntu VM</li>
-  <li>Disable incoming ICMP traffic for the Ubuntu VM's Network Security Group, observe traffic in Wireshark and ping activity in Windows 10 VM</li>
-  <li>Re-enable ICMP traffic, observe traffic in Wireshark and ping activity in Windows 10 VM</li>
-  <li>Filter Wireshark for SSH traffic</li>
-  <li>SSH into the Ubuntu VM from the Windows 10 VM and observe traffic in Wireshark</li>
-  <li>Exit SSH connection and observe traffic in Wireshark</li>
-  <li>Filter Wireshark for DHCP traffic</li>
-  <li>Attempt to renew the IP address for Windows 10 VM and observe traffic in Wireshark</li>
-  <li>Filter Wireshark for DNS traffic</li>
-  <li>Use nslookup to see the IP addresses of google.com and disney.com and observe traffic in Wireshark</li>
-  <li>Filter Wireshark for RDP traffic and observe non-stop traffic due to the constant live stream of the RDP protocol.</li></ul>
+[twitter]: https://twitter.com/cryptoremedy
+[instagram]: https://www.instagram.com/cryptoremedy
+[linkedin]: https://linkedin.com/in/orane-farquharson
