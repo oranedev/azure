@@ -13,6 +13,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/oranedev/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/oranedev/ticket-lifecycle)
 
+- <b>Data Collection Metrics(Traffic Counts)</b>
+  - [Camera Capture KPIs](https://github.com/oranedev/SOP/blob/db8d192ebb4e8cea5ebbfdf978a289aefec027ba/data_collection_metrics.md)
+    
 <h2>🤳Connect with me:</h2>
 
 
